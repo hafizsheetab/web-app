@@ -3,9 +3,9 @@
 .angular/*
 
 # Compiled output
-/dist
-/tmp
-/out-tsc
+# /dist
+# /tmp
+# /out-tsc
 
 # Dependencies
 /node_modules
